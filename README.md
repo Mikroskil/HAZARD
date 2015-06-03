@@ -1,4 +1,15 @@
-<<<<<<< HEAD
+=======
+#TIM HAZARD
+
+##Judul Presentasi : Typhography
+=======
+##Informasi TIM
+
+> Darma Kurniawan Harefa 13.111.2764
+> Nipe Setiawan Harefa   13.111.0011
+> Albert                 13.111.0526
+> Tommy                  13.111.1955
+=======
 # Hello World
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
@@ -16,8 +27,5 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ gulp serve
 ```
-=======
-#TIM HAZARD
 
-##Judul Presentasi : Typhography
->>>>>>> 2ad22ded1e37f110443942a3212fefe9254125d1
+

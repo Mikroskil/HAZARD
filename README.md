@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello World
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
@@ -15,3 +16,8 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ gulp serve
 ```
+=======
+#TIM HAZARD
+
+##Judul Presentasi : Typhography
+>>>>>>> 2ad22ded1e37f110443942a3212fefe9254125d1

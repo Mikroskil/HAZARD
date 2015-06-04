@@ -121,8 +121,13 @@ body {
   color: #000;
 }
 body .bespoke-parent {
-  background: #000;
+  background: -webkit-radial-gradient(#aa0, #00b0f0);
+  background: radial-gradient(#aa0, #00b0f0);
 }
 .bespoke-slide {
-  background: #85875f;
+  background: none;
+}
+.bespoke-slide #logo img {
+  width: 500px;
+  margin: 0 auto;
 }

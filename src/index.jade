@@ -10,18 +10,30 @@ html
   body
 
     article
-
-      section.emphatic-text(data-bespoke-backdrop='blackBack').blackBack
+     section.emphatic-text(data-bespoke-backdrop='blackBack').blackBack
         .gambarTengah
           img(src='images/typo.png')
           
-      section.emphatic-text(data-bespoke-backdrop='cloudBlack').cloudBlack
-        .gambarTengah#contoh
+      section.emphatic-text(data-bespoke-backdrop='aspaltBack').aspaltBack
+        .gambarTengah#typoExample1
           img(src='images/typoExample1.jpg')
+
+      section.emphatic-text(data-bespoke-backdrop='alizarinBack').alizarinBack
+        p#typoExample2
+          | dif
+          span.different f
+          | erence
+
+      section.emphatic-text(data-bespoke-backdrop='whiteBack').whiteBack
+        #typoExample3
+          img(src='images/typoExample3.jpg')
+        #typoExample4
+          img(src='images/typoExample4.jpg')
 
       section
         h2 Touch Interaction
         h3 Powered by <a href="https://github.com/markdalgleish/bespoke-touch">bespoke-touch</a>
+
 
       section
         h2 Responsive Slides
@@ -68,5 +80,7 @@ html
           li
             strong Enjoy! :)
             a(href='http://twitter.com/markdalgleish')  -@markdalgleish
+
+
 
     script(src='build/build.js')

@@ -1,8 +1,7 @@
 // Require Node modules in the browser thanks to Browserify: http://browserify.org
 //require('bespoke-fx');
 
-var bespoke = require('bespoke'),
-  fx = require('bespoke-fx'),
+var bespoke = require('bespoke'),,
   cube = require('bespoke-theme-cube'),
   keys = require('bespoke-keys'),
   touch = require('bespoke-touch'),

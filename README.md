@@ -29,7 +29,7 @@ $ npm install && bower install
 $ gulp serve
 ```
 # Reminders
-Presentation at june 17th 2015
+Presentation at june 17th 2015 (Random)
 
 
 

@@ -28,5 +28,8 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ gulp serve
 ```
+# Reminders
+Presentation at june 17th 2015
+
 
 

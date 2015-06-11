@@ -2,7 +2,7 @@
 //require('bespoke-fx');
 
 var bespoke = require('bespoke'),
-  fx = require('bespoke-fx'),
+  
   cube = require('bespoke-theme-cube'),
   keys = require('bespoke-keys'),
   touch = require('bespoke-touch'),

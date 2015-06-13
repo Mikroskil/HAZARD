@@ -3,7 +3,7 @@ html
   head
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
-    title Typhography
+    title Typography
 
     link(rel='stylesheet', type='text/css', href='build/build.css')
 
@@ -17,12 +17,6 @@ html
       section.emphatic-text(data-bespoke-backdrop='aspaltBack').aspaltBack
         .gambarTengah#typoExample1
           img(src='images/typoExample1.jpg')
-
-      section.emphatic-text(data-bespoke-backdrop='greenLightBack').greenLightBack.gambarKanan
-        br
-        h2.animated.infinite.bouce  Ty-po-gra-phy
-        br
-        p Salah satu bahasan dalam bidang desain grafis yang berfokus pada teknik dan seni membuat teks menjadi dapat dicerna dengan mudah
 
       section.emphatic-text(data-bespoke-backdrop='alizarinBack').alizarinBack
         p#typoExample2
@@ -46,28 +40,37 @@ html
           p - Klasifikasi Huruf
           p - Sistem Pengukuran Huruf
           p - Jarak Antar Baris
-          p - Jarak Antar Kata dan Huruf
+          p - Jarak Antar Kata dan huruf
+
+      section.emphatic-text(data-bespoke-backdrop='greenLightBack').greenLightBack.gambarKanan
+        br
+        h2.animated.infinite.bouce  Ty-po-gra-phy
+        br
+        p Salah satu bahasan dalam bidang desain grafis yang berfokus pada teknik dan seni membuat teks menjadi dapat dicerna dengan mudah
 
       section.emphatic-text(data-bespoke-backdrop='aspaltBack')
-        h3.bullet Prinsip Utama Typography
-        br
-        ul
-         li  Prinsip : membuat teks menjadi 
-            i berguna 
-            | dan 
-            i mudah digunakan
-         li Artinya ?
+        div.left-corner
+          p Prinsip Utama Typography
+        ul.prinsip-typo
+          li 
+            b.sub-title Readability
+          li 
+            span.meaning Berbicara tentang kemudahan membaca teks
+          li 
+            b.sub-title Legibility
+          li.last-meaning
+            span.meaning Berbicara tentang kemdahan mengenali setiap huruf dan kata
+          li
+            div.quote
+              div.quotation
+              span.quote-text Respect the text, respect the reader, respect the type
+              br
+              span.quote-name --Allan Haley
 
 
       section.emphatic-text(data-bespoke-backdrop='aspaltBack')
         h3 Prinsip Utama Typography
-        br
-        ul
-         li Tipografi berbicara tentang  
-            b kemudahan membaca teks
-            i (readability)
-         li dan kemudahan mengenali setiap huruf dan kata 
-          i (legibility).
+        
 
       section
         h2 Bullet List
@@ -78,14 +81,8 @@ html
           li Bullet 3
 
       section
-<<<<<<< HEAD
+
         h1 HAZARD Team        
         p @nipeharefa , @Albertang95, @hello-bos, @tommy
-=======
-        h1 HAZARD Team
-        p @nipeharefa , @Albertang95, @hello-bos, @tommy131111955
->>>>>>> 5d422a6a95cb5d901c08d6d686abb52c10693cd5
-
-
 
     script(src='build/build.js')

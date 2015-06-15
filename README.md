@@ -30,6 +30,7 @@ $ gulp serve
 ```
 # Reminders
 Presentation at june 17th 2015 (Random)
+Collect Product Backlog dan Burntdown Chart at [elearning](https://www.mikroskil.ac.id/elearning/mod/assign/view.php?id=10021)
 
 > Find our project in [trello](https://trello.com/b/F85XiNSm/hazard)
 

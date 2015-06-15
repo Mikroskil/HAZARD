@@ -31,5 +31,5 @@ $ gulp serve
 # Reminders
 Presentation at june 17th 2015 (Random)
 
-
+> Find our project in [trello](https://trello.com/b/F85XiNSm/hazard)
 

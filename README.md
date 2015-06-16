@@ -6,10 +6,10 @@
 #Informasi TIM
  > Anggota Kelompok:
  
- > 1. Darma Kurniawan Harefa 13.111.2764
- > 2. Nipe Setiawan Harefa   13.111.0011
- > 3. Albert                 13.111.0526
- > 4. Tommy                  13.111.1955
+ > 1. Darma Kurniawan Harefa 13.111.2764 TI-A Pagi
+ > 2. Nipe Setiawan Harefa   13.111.0011 TI-A Pagi
+ > 3. Albert                 13.111.0526 TI-A Pagi
+ > 4. Tommy                  13.111.1955 TI-A Pagi
 
 # Hello World
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
